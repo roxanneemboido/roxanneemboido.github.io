@@ -1,0 +1,133 @@
+<html>
+<div id="triangle-up">
+
+</div>
+
+<div id="square">
+
+</div>
+
+<div id="vertical">
+
+</div>
+
+
+<div id="horizontal">
+
+</div>
+
+<div id="vertical1">
+
+
+</div>
+
+<div id="horizontal1">
+
+</div>
+<div id="vertical2">
+
+</div>
+
+<div id="vertical3">
+
+
+</div>
+
+<div id="horizontal2">
+
+</div>
+
+<div id="vertical4">
+
+
+</div>
+</html>
+
+<style>
+#triangle-up {
+	width: 0;
+	height: 0;
+	border-left: 50px solid transparent;
+	border-right: 50px solid transparent;
+	border-bottom: 100px solid blue;
+}
+
+#square {
+	width: 100px;
+	height: 100px;
+	background: red;
+}
+
+
+ #vertical
+{
+ height:89px;
+ border-left: 1px solid blue;
+ position: absolute;
+ top: 61px;
+ left: 45px;
+}
+
+#horizontal
+{
+ width: 38.5px;
+ border-top: 1px solid blue;
+ position: absolute;
+ top: 150px;
+ left: 10;
+}
+
+ #vertical1
+{
+ height:89px;
+ border-left: 1px solid blue;
+ position: absolute;
+ top: 61px;
+ left: 70px;
+}
+
+#horizontal1
+{
+ width: 38.5px;
+ border-top: 1px solid blue;
+ position: absolute;
+ top: 150px;
+ left: 70px
+}
+
+ #vertical2
+{
+ height:35px;
+ border-left: 1px solid blue;
+ position: absolute;
+ top: 172.99px;
+ left: 48px;
+}
+
+ #vertical3
+{
+ height:35px;
+ border-left: 1px solid blue;
+ position: absolute;
+ top: 172.99px;
+ left: 70px;
+}
+
+#horizontal2
+{
+ width: 22.9px;
+ border-top: 1px solid blue;
+ position: absolute;
+ top: 172px;
+ left: 48px;
+}
+
+ #vertical4
+{
+ height: 3px;
+ border-left: 1px solid black;
+ position: absolute;
+ top: 190px;
+ left: 52px;
+}
+</style>
